@@ -1,0 +1,66 @@
+.half-width{
+    width: 50%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
+#about-1{
+    color: white;
+    background-color: coral;
+    height: 350px;
+    padding: 50px;
+    font-size: 20px;
+    background-size: cover;
+    background: url(images/computer.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    /* opacity: .7; */
+}
+button{
+    padding: 10px 20px;
+    background-color: darkgreen;
+    color: white;
+}
+#about-2{
+    color: white;
+    background-color: #d6ff50;
+    height: 350px;
+    padding: 50px;
+    font-size: 20px;
+    background-size: cover;
+    background: url(images/computer2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.one-third{
+    width: 32%;
+    float: left;
+    margin-right: 1.33%;
+}
+.one-third img{
+    width: 100%;
+}
+#about-3{
+    color: white;
+    background-color: hsl(182, 100%, 66%);
+    height: 350px;
+    padding: 50px;
+    font-size: 20px;
+    background-size: cover;
+    background: url(images/computer3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#about-3 img{
+    border-radius: 20px;
+}
+footer{
+    color: white;
+    text-align: center;
+    background-color: darkorange;
+    background-size: cover;
+    background: url(images/keyboard.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
